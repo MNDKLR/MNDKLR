@@ -18,8 +18,8 @@
 [<img align="left" alt="Taylor McManiman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Taylor McManiman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: [https://www.instagram.com/mnd.klr]
-[linkedin]:[https://linkedin.com/in/taylor-mcmaniman-a95461183]
+[instagram]: https://www.instagram.com/mnd.klr
+[linkedin]:https://linkedin.com/in/taylor-mcmaniman-a95461183
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
