@@ -7,7 +7,7 @@
 
 <h2> 💻 Personal Interests:</h2>
 
-- <b>Malware Development, Behavioural & Mitigation Techniques</b>
+- <b>Malware Development & Mitigation Techniques</b>
 - <b>Practical Applications of Cyber-Defence / Offence In The Context of National Security</b>
 - <b>Penetration Testing / Ethical Hacking</b>
 
