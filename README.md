@@ -3,7 +3,7 @@
 <h2>👾 Cyber-Security & Personal Projects:</h2>
 
 - <b>Python</b>
-  - [Port Scanner For Use In Network Reconnaissance (WIP)](https://github.com/MNDKLR/Python-Port-Scanner)
+  - [Port Scanner For Use In Network Reconnaissance (WIP)](https://github.com/MNDKLR/Port-Scanner-Python-Script)
 
 <h2> 💻 Personal Interests:</h2>
 
