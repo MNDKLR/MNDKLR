@@ -1,4 +1,4 @@
-<h1>Hello, I'm Taylor! <br/><a href="https://www.linkedin.com/in/taylor-mcmaniman-a95461183">Student</a>, <a href="https://www.codecademy.com/profiles/MNDKLR">Learner</a> &  <a>Cyber-Security Enthusiast</a></h1>
+<h1>Hello, I'm Taylor! <br/><a href="https://www.linkedin.com/in/taylor-mcmaniman-a95461183">Graduate</a>, <a href="https://www.codecademy.com/profiles/MNDKLR">Learner</a> & <a>Cyber-Security Enthusiast</a></h1>
 
 <h2>👾 Cyber-Security & Personal Projects:</h2>
 
@@ -10,8 +10,6 @@
 - <b>Ethical Malware Development & Mitigation Techniques</b>
 - <b>Practical Applications of Cyber-Defence / Offence In The Context of National Security</b>
 - <b>Penetration Testing / Ethical Hacking</b>
-
-
 
 <h2> 🤳 Get In Touch:</h2>
 
